@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="dark_brown">#3B3127</color>
+    <color name="light_brown">#7A6651</color>
+    <color name="beige">#BA9C7B</color>
+    <color name="latte">#E0BC94</color>
+    <color name="basic_beige">#FAD1A4</color>
+</resources>
